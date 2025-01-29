@@ -1,7 +1,11 @@
 {
-  "Name": "RSfMRI",
-  "BIDSVersion": "1.1.1",
-  "DatasetType": "raw",
-  "Authors": ["ProactionLab"],
-  "DatasetVersion": "1.0.0"
+    "Name": "RSfMRI",
+    "BIDSVersion": "1.1.1",
+    "DatasetType": "raw",
+    "Authors": [
+        "ProactionLab"
+    ],
+    "DatasetVersion": "1.0.0",
+    "Funding": [],
+    "License": "CC0"
 }
