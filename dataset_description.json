@@ -1,0 +1,7 @@
+{
+  "Name": "RSfMRI",
+  "BIDSVersion": "1.1.1",
+  "DatasetType": "raw",
+  "Authors": ["ProactionLab"],
+  "DatasetVersion": "1.0.0"
+}
