@@ -6,6 +6,11 @@
         "ProactionLab"
     ],
     "DatasetVersion": "1.0.0",
-    "Funding": [],
+    "Funding": [
+        "European Union&#39;s Horizon Europe Grant 101087584 \"CogBooster\"",
+        "SFRH/BD/137737/2018",
+        "CEECIND/03661/2017",
+        "ERC Starting Grant number 802553 “ContentMAP\""
+    ],
     "License": "CC0"
 }
