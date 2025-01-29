@@ -1,7 +1,10 @@
-{
-  "Name": "RSfMRI",
-  "BIDSVersion": "1.1.1",
-  "DatasetType": "raw",
-  "Authors": ["ProactionLab"],
-  "DatasetVersion": "1.0.0"
-}
+# README #
+
+### Directory description ###
+
+This directory contains data organized in the BIDS structure. For more information about the BIDS structure check: https://bids.neuroimaging.io/.
+
+### Data description ###
+
+Data consists of task realease suppression fMRI and anatomical T1 weighted images.
+
